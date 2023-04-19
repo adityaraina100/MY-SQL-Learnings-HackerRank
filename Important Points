@@ -1,0 +1,6 @@
+Some important functions and clauses that I encountered(Keeping them here for my future reference also).
+1).The OVER clause is powerful in that you can have aggregates over different ranges ("windowing"), whether you use a GROUP BY or not.
+2).The REPEAT() function repeats a string as many times as specified.
+3). Synatx for Inner Join:
+  INNER JOIN ON COLUMN NAME FROM ONE TABLE=COLUMN NAME FROM OTHER TABLE
+4).repeat("string","number of times")
